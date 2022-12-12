@@ -1,9 +1,5 @@
-# cs425-f22-group-12
+# CS-425 Final Project
 
-## Group Members:
-##### Achraf Kamni
-##### Sierra Spencer
-##### Sasidharan Nair Darshan
 
 
 ## To run the application on a Windows machine, please follow these steps:  
